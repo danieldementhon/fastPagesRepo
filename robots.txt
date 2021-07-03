@@ -1,0 +1,1 @@
+Sitemap: https://danieldementhon.github.io/fastPagesRepo/sitemap.xml
